@@ -1,0 +1,6 @@
+{
+  "name": "مشكاة الدر المكنون",
+  "description": "منصة إسلامية تفاعلية لتدارس الكتب العلمية وتدقيق التلاوة بالذكاء الاصطناعي ومتابعة رتب الطلاب وأوسمتهم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

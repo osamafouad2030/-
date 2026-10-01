@@ -1,0 +1,85 @@
+<resources>
+    <!-- الهوية البصرية والأساسية -->
+    <string name="app_name">مشكاة الدر المكنون</string>
+    <string name="welcome_title">مرحبًا بك في مشكاة الدر المكنون</string>
+    <string name="welcome_subtitle">المنصة العلمية التفاعلية لمدارسة الكتب الشرعية</string>
+    
+    <!-- مستويات المدارسة -->
+    <string name="level_beginner">مبتدئ</string>
+    <string name="level_intermediate">متوسط</string>
+    <string name="level_advanced">متقدم</string>
+    <string name="level_scholar">باحث متقن</string>
+    <string name="current_level_label">المستوى الدراسي الحالي: %s</string>
+
+    <!-- واجهة تسجيل الدخول والمصادقة -->
+    <string name="login_title">تسجيل الدخول الأكاديمي</string>
+    <string name="login_email_hint">البريد الإلكتروني للأكاديمية</string>
+    <string name="login_password_hint">كلمة المرور</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="login_facebook_button">تسجيل الدخول عبر فيسبوك</string>
+    <string name="login_error_empty">يرجى ملء جميع الحقول</string>
+    <string name="login_success">تم تسجيل الدخول بنجاح</string>
+    <string name="logout_button">تسجيل الخروج</string>
+
+    <!-- نافذة أوسمة الطالب (StudentBadgesDialog) -->
+    <string name="badges_dialog_title">سجل الأوسمة والتقدم الأكاديمي</string>
+    <string name="badges_rank_title">الرتبة الأكاديمية والقرآنية</string>
+    <string name="badges_stats_earned">الأوسمة المحققة</string>
+    <string name="badges_stats_completed">الدروس المكتملة</string>
+    <string name="badges_stats_perfect">علامات كاملة 100%</string>
+    <string name="badges_filter_all">الكل</string>
+    <string name="badges_filter_academic">أكاديمي</string>
+    <string name="badges_filter_quranic">قرآني</string>
+    <string name="badges_unlocked_on">تم نيل الوسام في: %s</string>
+    <string name="badges_locked">مغلق - لم يتحقق الشرط بعد</string>
+    <string name="badges_share_button">مشاركة سجل الإنجازات</string>
+    <string name="badges_share_text">بفضل الله، أحرزت رتبة (%1$s) وحصلت على %2$d أوسمة في منصة مشكاة الدر المكنون التعليمية!</string>
+
+    <!-- نافذة فتح وسام جديد (NewBadgeUnlockedDialog) -->
+    <string name="new_badge_congrats">تهانينا الحارة! إنجاز علمي مبارك</string>
+    <string name="new_badge_message">بفضل الله وتوفيقه، تم فتح وسام جديد بجدارة:</string>
+    <string name="new_badge_review">استعراض الأوسمة</string>
+    <string name="new_badge_continue">متابعة المدارسة</string>
+
+    <!-- نافذة وضع العرض التكيفي (DisplayModeDialog) -->
+    <string name="display_dialog_title">إعدادات العرض التكيفي</string>
+    <string name="display_mode_auto">تلقائي (حسب الشاشة)</string>
+    <string name="display_mode_mobile">هاتف محمول (Mobile)</string>
+    <string name="display_mode_tablet">لوحي (Tablet)</string>
+    <string name="display_mode_desktop">مكتب (Desktop)</string>
+    <string name="display_width_info">عرض الشاشة الحالي: %d dp</string>
+    <string name="display_save_button">حفظ وتطبيق المظهر</string>
+
+    <!-- مختبر التلاوة الصوتية (RecitationLab) -->
+    <string name="recitation_lab_title">مختبر التلاوة الصوتية بالذكاء الاصطناعي</string>
+    <string name="recitation_prompt">اضغط على الميكروفون وابدأ بتلاوة الآية الكريمة ليقوم المعلم الذكي بتقييم تلاوتك وتدقيق أحكام التجويد ومخارج الحروف:</string>
+    <string name="recitation_recording">جاري تسجيل صوتك المبارك... تحدث الآن</string>
+    <string name="recitation_transcribe_error">عذرًا، لم يتمكن المعلم الذكي من تحليل الصوت. يرجى المحاولة مرة أخرى بصوت أوضح.</string>
+    <string name="recitation_evaluate_button">تقييم التلاوة</string>
+    <string name="recitation_result_title">تقييم المعلم الذكي:</string>
+    <string name="recitation_mic_start">بدء التسجيل الصوتي</string>
+    <string name="recitation_mic_stop">إيقاف التسجيل والتقييم</string>
+
+    <!-- التنبيه اليومي (DailyReminder) -->
+    <string name="reminder_dialog_title">ورد المدارسة اليومي</string>
+    <string name="reminder_message">قال رسول الله ﷺ: "من سلك طريقًا يلتمس فيه علمًا سهّل الله له به طريقًا إلى الجنة". حان وقت الورد اليومي لمدارسة كتبك المقررة، لا تحرم نفسك من بركة العلم اليوم!</string>
+    <string name="reminder_action_start">ابدأ المدارسة الآن</string>
+    <string name="reminder_action_snooze">تذكير لاحقاً</string>
+
+    <!-- لوحة المعلم (Teacher Dashboard) -->
+    <string name="teacher_dashboard_title">لوحة تحليلات وإدارة المعلم</string>
+    <string name="teacher_active_students">الطلاب النشطون حالياً</string>
+    <string name="teacher_total_students">إجمالي الطلاب المسجلين</string>
+    <string name="teacher_login_logs">سجل رصد عمليات الدخول الأكاديمية</string>
+    <string name="teacher_student_progress">متابعة تقدم ومستويات الطلاب</string>
+    <string name="teacher_analytics_chart">تحليلات الأداء ومعدلات الإنجاز</string>
+    <string name="teacher_action_alert">إرسال تنبيه</string>
+    <string name="teacher_action_suspend">تعليق الحساب</string>
+    <string name="teacher_action_export">تصدير التقارير (CSV)</string>
+    <string name="teacher_filter_level">تصفية حسب المستوى الدراسي</string>
+    
+    <!-- المعلم الذكي -->
+    <string name="smart_tutor_title">المعلم الذكي المساعد</string>
+    <string name="smart_tutor_ask_hint">اسأل المعلم الذكي عن أي مسألة في الكتاب المقرّر...</string>
+    <string name="smart_tutor_send">اسأل</string>
+</resources>

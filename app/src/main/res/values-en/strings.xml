@@ -1,0 +1,85 @@
+<resources>
+    <!-- Visual Identity & Basics -->
+    <string name="app_name">Mishkat Al-Durr Al-Maknun</string>
+    <string name="welcome_title">Welcome to Mishkat Al-Durr Al-Maknun</string>
+    <string name="welcome_subtitle">Interactive Islamic Platform for studying classical books</string>
+    
+    <!-- Study Levels -->
+    <string name="level_beginner">Beginner</string>
+    <string name="level_intermediate">Intermediate</string>
+    <string name="level_advanced">Advanced</string>
+    <string name="level_scholar">Scholar Specialist</string>
+    <string name="current_level_label">Current Academic Level: %s</string>
+
+    <!-- Login UI & Authentication -->
+    <string name="login_title">Academic Login Portal</string>
+    <string name="login_email_hint">Academy Email Address</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_facebook_button">Sign In with Facebook</string>
+    <string name="login_error_empty">Please fill in all fields</string>
+    <string name="login_success">Successfully logged in</string>
+    <string name="logout_button">Logout</string>
+
+    <!-- Student Badges Dialog (StudentBadgesDialog) -->
+    <string name="badges_dialog_title">Badge Records &amp; Academic Progress</string>
+    <string name="badges_rank_title">Academic &amp; Qur\'anic Rank</string>
+    <string name="badges_stats_earned">Earned Badges</string>
+    <string name="badges_stats_completed">Lessons Completed</string>
+    <string name="badges_stats_perfect">100% Grades</string>
+    <string name="badges_filter_all">All</string>
+    <string name="badges_filter_academic">Academic</string>
+    <string name="badges_filter_quranic">Qur\'anic</string>
+    <string name="badges_unlocked_on">Unlocked on: %s</string>
+    <string name="badges_locked">Locked - Criteria not met yet</string>
+    <string name="badges_share_button">Share Achievement Records</string>
+    <string name="badges_share_text">By the Grace of Allah, I achieved the rank of (%1$s) and unlocked %2$d badges on Mishkat Al-Durr Al-Maknun platform!</string>
+
+    <!-- New Badge Unlocked Dialog (NewBadgeUnlockedDialog) -->
+    <string name="new_badge_congrats">Hearty Congratulations! Blessed Academic Milestone</string>
+    <string name="new_badge_message">By Allah\'s grace &amp; guidance, you have earned a new badge:</string>
+    <string name="new_badge_review">Review Badges</string>
+    <string name="new_badge_continue">Continue Studying</string>
+
+    <!-- Adaptive Display Dialog (DisplayModeDialog) -->
+    <string name="display_dialog_title">Adaptive Display Settings</string>
+    <string name="display_mode_auto">Auto (Responsive to screen)</string>
+    <string name="display_mode_mobile">Mobile</string>
+    <string name="display_mode_tablet">Tablet</string>
+    <string name="display_mode_desktop">Desktop</string>
+    <string name="display_width_info">Current screen width: %d dp</string>
+    <string name="display_save_button">Save &amp; Apply Layout</string>
+
+    <!-- Recitation Lab (RecitationLab) -->
+    <string name="recitation_lab_title">AI Qur\'anic Recitation Lab</string>
+    <string name="recitation_prompt">Tap the microphone and start reciting the verse. The Intelligent Tutor will analyze your recitation, Tajweed, and pronunciation:</string>
+    <string name="recitation_recording">Recording your blessed voice... Speak now</string>
+    <string name="recitation_transcribe_error">Sorry, the Intelligent Tutor could not process the audio. Please try again in a clearer voice.</string>
+    <string name="recitation_evaluate_button">Evaluate Recitation</string>
+    <string name="recitation_result_title">Intelligent Tutor Assessment:</string>
+    <string name="recitation_mic_start">Start Voice Recording</string>
+    <string name="recitation_mic_stop">Stop Recording &amp; Assess</string>
+
+    <!-- Daily Reminder (DailyReminder) -->
+    <string name="reminder_dialog_title">Daily Study Portion (Wird)</string>
+    <string name="reminder_message">The Prophet ﷺ said: \"Whoever treads a path in search of knowledge, Allah will make easy for him a path to Paradise.\" It\'s time for your daily study portion. Do not deprive yourself of the blessings of knowledge today!</string>
+    <string name="reminder_action_start">Start Study Now</string>
+    <string name="reminder_action_snooze">Remind Me Later</string>
+
+    <!-- Teacher Dashboard -->
+    <string name="teacher_dashboard_title">Teacher Analytics &amp; Management Panel</string>
+    <string name="teacher_active_students">Students Active Now</string>
+    <string name="teacher_total_students">Total Registered Students</string>
+    <string name="teacher_login_logs">Academic Login Tracking Logs</string>
+    <string name="teacher_student_progress">Student Progress &amp; Level Tracker</string>
+    <string name="teacher_analytics_chart">Performance Analysis &amp; Completion Rates</string>
+    <string name="teacher_action_alert">Send Notification</string>
+    <string name="teacher_action_suspend">Suspend Account</string>
+    <string name="teacher_action_export">Export Reports (CSV)</string>
+    <string name="teacher_filter_level">Filter by Academic Level</string>
+
+    <!-- Intelligent Tutor -->
+    <string name="smart_tutor_title">Intelligent AI Tutor</string>
+    <string name="smart_tutor_ask_hint">Ask the Intelligent Tutor any question about the curriculum...</string>
+    <string name="smart_tutor_send">Ask</string>
+</resources>
